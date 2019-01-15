@@ -26,3 +26,9 @@
 - 暂时就用了这么多内容，想自己搞点骚操作的，可以查看github的[markdown](https://guides.github.com/features/mastering-markdown/)语法。
 ## 新建及上传
 - 点击create或者upload即可，要在哪个文件夹新建或上传，就点进那个文件夹进行相应操作即可。
+## 将你的项目合并到主项目
+- 等你的修改工作完成之后，确认修改。然后就需要将你的修改内容提交到主项目方便所有人看到。在你的项目页，点击pull request按钮，如图所示:<br>
+![pull_requset_btn](pictures/pull_request_btn.png)<br>
+- 会进入merge request页面，通常来讲都是没什么问题的，直接点击create pull requset按钮即可，如果有冲突的话。。。等你遇到再私聊我(江叶)吧。。。<br>
+![pull_requset](pictures/pull_request.png)<br>
+- 点击完后，去群里喊我merge你的更改，如果我确认你没有搞事的话（诸如大面积删除其他人的工作），我就会将你的内容合进主分支，这样所有人都能看到你的修改啦！
