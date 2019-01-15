@@ -13,3 +13,6 @@
 - 有[麻辣兔头](members/matou.md)者，发图漏点。<br>
 - 有奸佞[胖嘟嘟](members/pdd.md)，前朝遗老，在野养望，以谗言蒙蔽银发，复起管理，初任事，即公布群聊数据，[阿初](members/achu.md)夺魁，二狗次之。<br>
 - 群内养鱼之风盛行，管理无为，链接漫天，色图不在，复读难现，唧唧陆沉，呜呼哀哉。<br>
+
+
+<footer><a href="help.md" target="_blank">帮助文档</a></footer>
