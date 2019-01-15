@@ -1,0 +1,12 @@
+# 帮助文档
+## 简介
+> 这个文档旨在为唧唧春秋的简单编写提供一个基于github系统的解决思路，无需掌握git，简单易懂，希望感兴趣的唧唧群友踊跃参与。<br>
+## 准备工作
+> 需要注册一个[`github`](https://github.com)账号。<br>
+## fork分支
+> 把[`唧唧春秋`](https://github.com/azhaizhai/jiji_note)fork到你的账号下，点击fork按钮即可，具体位置如下图:<br>![fork](pictures/fork.png)<br>
+> fork之后，登录状态下，即可在[github首页](https://github.com)的仓库中看到这个项目。现在这个项目属于你了，可以尽情的进行修改。<br>
+## markdown编辑
+> markdown是什么不再赘述，感兴趣请查阅wiki:[`markdown`](https://en.wikipedia.org/wiki/Markdown),这里只简单说下用法。<br>
+> 通过图片来讲解:<br>![readme_show](pictures/readme_show.png)<br>
+> 这是当前的`唧唧春秋`内容，它的源码如下:<br>![readme_code](pictures/readme_code.png)<br>
