@@ -5,7 +5,7 @@
 ##### *冬月*
 - 王崩，子二世立。<br>
 - 四日，二世崩，子三世立。当是时也，奸人作乱，[灿叔](members/xiaoc.md)不行，[银发](members/yinfa.md)监国。待国朝初定，还政于灿。<br>
-- 寒士[妹洞]（members/naodong.md），献唧三世头像，银发悦，赐管理，位列朱紫。<br>
+- 寒士[妹洞](members/naodong.md)，献唧三世头像，银发悦，赐管理，位列朱紫。<br>
 ##### *腊月*
 - [二狗](members/ergou.md)与[四鸟](members/siniao.md)赌于靠谱群。赌约如下，若二狗在唧三世元年（己亥年）前离职，则四鸟jk女装，未离职，则二狗女装。<br>
 - [馆长](members/guanzhang.md)与数代纸传相思，月下柳梢头，人约期末后。<br>
