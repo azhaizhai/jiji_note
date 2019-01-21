@@ -18,5 +18,6 @@
 - 馆长与数代终成眷属。执子之手，与子偕老；佳偶既得，何羡鸳鸯。<br>
 - pdd为求队友，肆意弄权。君不见，幽王烽火戏诸侯，遂使平王东迁，周祚二分。今日之pdd，何异于幽王？唧祚存亡，何异于周？<br>
 - [胖虎](members/panghu.md)入股市。<br>
+- 三九寒天，北风肆虐。忽如一夜春风来，千树万树梨花开。[加多宝](members/jiaduobao.md),[ash](members/ash.md)与[ki莫姬](members/kimoji.md)相继病倒。同日，二狗脚踝不堪其重，下楼时玉碎。<br>
 
 <footer><a href="help.md" target="_blank">帮助文档</a></footer>
