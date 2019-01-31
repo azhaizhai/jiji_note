@@ -1,4 +1,4 @@
-# <img src="pictures/jiji.JPG"  height="35" width="35">唧唧春秋
+# <img src="pictures/jiji.JPG"  height="30" width="30">唧史
 ## 唧始皇
 ### 六年
 #### 冬
@@ -27,5 +27,6 @@
 - 银发代理管理，集皇权朝堂一身，三世集权顶点，封建制度巅峰。<br>
 - [税妹](members/wangxiangshui.md)苦读二旬，终得休假。彼采艾兮，一日不见，如三岁兮。<br>
 - 二狗心念海底捞多日，不曾想半道迷途，竟不可得，时来天地皆同力，运气英雄不自由，天意如此，人力奈何，遂引为憾事。<br>
+- 唧唧春秋更名为唧史。<br>
 
 <footer><a href="help.md">帮助文档</a></footer>
