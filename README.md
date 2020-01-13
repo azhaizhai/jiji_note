@@ -1,4 +1,4 @@
-# <img src="pictures/jiji.JPG"  height="30" width="30">唧史
+# <img src="pictures/jiji.jpg"  height="30" width="30">唧史
 ## 唧始皇
 ### 六年(西元2018-2019年)
 #### 冬
