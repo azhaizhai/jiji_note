@@ -78,4 +78,27 @@
 - 酱酱自鄂来，蜀中父老骇，休怪父母排，此疫实难挨。<br>
 - 巴蜀地动，实乃牝鸡司晨，银发无德，天意有感，当下诏罪己。<br>
 - 唧三世群号外泄，有新人自客服群来，唧唧苦内鬼久矣！<br>
+# 茵蒂克丝
+[唧唧PC客户端BUG中心-1](https://jq.qq.com/?_wv=1027&k=5WaJG6c)
+[唧唧PC客户端BUG中心-2](https://jq.qq.com/?_wv=1027&k=52obQgN)
+[唧唧PC客户端BUG中心-3](https://jq.qq.com/?_wv=1027&k=516mK5B)
+[唧唧PC客户端BUG中心-4](https://jq.qq.com/?_wv=1027&k=5NveWwn)
+[唧唧PC客户端BUG中心-5](https://jq.qq.com/?_wv=1027&k=51pUI1U)
+[唧唧PC客户端BUG中心-6](https://jq.qq.com/?_wv=1027&k=5mXqqoS)
+[唧唧PC客户端BUG中心-7](https://jq.qq.com/?_wv=1027&k=5aTnUwz)
+[唧唧PC客户端BUG中心-8](https://jq.qq.com/?_wv=1027&k=5Ll8vaa)
+[唧唧PC客户端BUG中心-9](https://jq.qq.com/?_wv=1027&k=5eUQ9ga)
+[唧唧PC客户端BUG中心-10](https://jq.qq.com/?_wv=1027&k=5KI66OV)
+[唧唧PC客户端BUG中心-11](https://jq.qq.com/?_wv=1027&k=5nTXWtn)
+[唧唧PC客户端BUG中心-12](https://jq.qq.com/?_wv=1027&k=5svxq4o)
+[唧唧PC客户端BUG中心-13](https://jq.qq.com/?_wv=1027&k=5lfwiee)
+[唧唧PC客户端BUG中心-14](https://jq.qq.com/?_wv=1027&k=5Pg0F5F)
+[唧唧PC客户端BUG中心-15](https://jq.qq.com/?_wv=1027&k=5PlVgSw)
+[唧唧PC客户端BUG中心-16](https://jq.qq.com/?_wv=1027&k=5jeDfEm)
+[唧唧聊天群](https://jq.qq.com/?_wv=1027&k=5h51tNJ)
+[唧唧の算法交流中心](https://jq.qq.com/?_wv=1027&k=5ehnxQQ)
+[唧唧minecraft](https://jq.qq.com/?_wv=1027&k=5QXhsO7)
+[唧唧MC](https://jq.qq.com/?_wv=1027&k=5m1pH5e)
+[唧唧游戏](https://jq.qq.com/?_wv=1027&k=5UwEDxn)
+
 <footer><a href="help.md">帮助文档</a></footer>
