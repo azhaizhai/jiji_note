@@ -95,10 +95,14 @@
 [唧唧PC客户端BUG中心-14](https://jq.qq.com/?_wv=1027&k=5Pg0F5F)  
 [唧唧PC客户端BUG中心-15](https://jq.qq.com/?_wv=1027&k=5PlVgSw)  
 [唧唧PC客户端BUG中心-16](https://jq.qq.com/?_wv=1027&k=5jeDfEm)  
+[唧唧PC客户端BUG中心-17](https://jq.qq.com/?_wv=1027&k=5Ib1G5f)
+[唧唧PC客户端BUG中心-18](https://jq.qq.com/?_wv=1027&k=5fatuRE)
 [唧唧聊天群](https://jq.qq.com/?_wv=1027&k=5h51tNJ)  
 [唧唧の算法交流中心](https://jq.qq.com/?_wv=1027&k=5ehnxQQ)  
 [唧唧minecraft](https://jq.qq.com/?_wv=1027&k=5QXhsO7)  
 [唧唧MC](https://jq.qq.com/?_wv=1027&k=5m1pH5e)  
 [唧唧游戏](https://jq.qq.com/?_wv=1027&k=5UwEDxn)  
+[唧唧 Telegram频道 (更新记录)](https://t.me/bilibilijj)
+[唧唧 Telegram群组](https://t.me/joinchat/EIdxI0MLVC0bxfshihGTEw)
 
 <footer><a href="help.md">帮助文档</a></footer>
